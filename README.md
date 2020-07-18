@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **React Native**
-
-![Avatar Image](https://blush.ly/A1DHzOlsl/p?bg=91051b)
+- 📫 How to reach me: [medericjoel@gmail.com](mailto:medericjoel@gmail.com)
 
 <!--
 **medericgb/medericgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
