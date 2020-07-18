@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **React Native**
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Avatar Image](https://blush.ly/A1DHzOlsl/p?bg=91051b)
 
 <!--
 **medericgb/medericgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
