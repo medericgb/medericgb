@@ -1,6 +1,4 @@
 ### Hi there 👋
-# Mederic Joel
-[Twitter](https://twitter.com/MMedericjoel)
 
 <!--
 **medericgb/medericgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
