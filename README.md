@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning react Native
-- 📫 How to reach me: [medericjoel@gmail.com](mailto:medericjoel@gmail.com)
+- 🔭 I’m currently working on **MERN Stack**
+- 🌱 I’m currently learning **React Native**
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **medericgb/medericgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
