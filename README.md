@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **React Native**
+- 🔭 **MERN Stack**
+- 🌱 Learning currently **Flutter**
 - 📫 How to reach me: [medericjoel@gmail.com](mailto:medericjoel@gmail.com)
 
 <!--
