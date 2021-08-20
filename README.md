@@ -1,5 +1,4 @@
 ### Hi there 👋
-## Médéric Joel
 - 📫 Contact me on [medericjoel@gmail.com](mailto:medericjoel@gmail.com)
 
 <!--
