@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 📫 Contact me on [medericjoel@gmail.com](mailto:medericjoel@gmail.com)
 
 <!--
 **medericgb/medericgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
